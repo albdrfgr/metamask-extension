@@ -1,4 +1,4 @@
-# Lines starting with '#' are comments.
+.# Lines starting with '#' are comments.
 
 # GUIDELINES:
 # Each line is a file pattern followed by one or more owners.
